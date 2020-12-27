@@ -1,0 +1,13 @@
+.vs
+Faraneek.Common/bin
+Faraneek.Common/obj
+Faraneek.Data/bin
+Faraneek.Data/obj
+Faraneek.Infrastructure/bin
+Faraneek.Infrastructure/obj
+Faraneek.Presentation/bin
+Faraneek.Presentation/obj
+Faraneek.Repo/bin
+Faraneek.Repo/obj
+Faraneek.Services/bin
+Faraneek.Services/obj
